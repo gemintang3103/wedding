@@ -1,0 +1,1 @@
+<input name="email" value="<?= $data->email;?>" type="hidden">
